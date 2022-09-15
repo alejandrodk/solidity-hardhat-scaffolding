@@ -1,9 +1,9 @@
 {
-  "name": "deploy-a-token-standard-alejandrodk",
+  "name": "solidity-hardhat-scaffolding",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:zircon-tech/deploy-a-token-standard-alejandrodk.git",
-  "author": "Alejandro Barrios <ottoabarriosp@hotmail.com>",
+  "repository": "git@github.com:alejandrodk/solidity-hardhat-scaffolding",
+  "author": "Alejandro Barrios",
   "license": "MIT",
   "scripts": {
     "test": "REPORT_GAS=true npx hardhat test",
